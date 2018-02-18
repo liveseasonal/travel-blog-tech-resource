@@ -363,3 +363,23 @@ Customer development for entrepreneurs by Steve Barnes
 The four hour workweek by Tim Ferris
 Trust me I am lying- confessions of a media manipulator by Ryan Holiday
 Delivering happiness by Tony Hseish
+
+
+Getting Started
+Day Planner re-check
+Meditate
+Get into Flow State. To start - Beethoven and Noisli. 
+Time Tracker 
+
+
+All your affiliate data
+in one dashboard
+Affluent aggregates all your data like commissions, clicks and sales to give you insights that help your business grow.
+
+AMP by Automattic
+This plugin adds support for the Accelerated Mobile Pages (AMP) Project, which is an open source initiative that aims to provide mobile optimized content that can load instantly everywhere.
+
+Is your AMP page valid?
+
+
+The Accelerated Mobile Pages (AMP) Project is an open source initiative that makes it easy for publishers to create mobile-friendly content once and have it load instantly everywhere
