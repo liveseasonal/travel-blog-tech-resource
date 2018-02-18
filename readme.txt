@@ -3,6 +3,10 @@ Single page travel blog tech resource. The ultimate document to improve the perf
 
 Goal simple reference page with many of the best resources that can help you improve your website performance as well as your funnel optimisation
 
+Want to Start with JQuery
+Build a React Option next for the travel hacking resource - which shoul pull in data from Instagram, best deals, Visa , flights etc
+Then info stored in Wordpress and we wpull it out through the Rest API
+
 
 
 

@@ -1,196 +1,3 @@
-Link Audit
-
-
-
-Local SEO
-Google My Business
-
-Marketing Automation
-Mautic
-https://www.mautic.org/
-Wishpond
-
-
-Outreach
-Turn outreach into results
-An account-based sales automation platform that actually works.
-https://mixmax.com/
-
-
-Page Speed
-https://testmysite.thinkwithgoogle.com/
-https://developers.google.com/speed/pagespeed/insights/
-https://tools.pingdom.com/
-
-Podcast
-http://www.evolvingseo.com/category/podcast/
-
-
-Press
-https://www.helpareporter.com/
-https://prmatch.com/
-https://presspanda.com/
-https://justreachout.io/
-
-
-Push Notification
-https://onesignal.com/
-https://pusher.com/
-
-Rank Tracking
-https://serpwatcher.com/#
-
-
-Reddit
-
-Retargeting
-
-
-Rich Snippet
-https://www.jamesdflynn.com/json-ld-schema-generator/
-https://developers.google.com/search/docs/guides/intro-structured-data
-https://search.google.com/structured-data/testing-tool
-
-SEO Toolkit
-
-
-SERP Fluctuations
-
-
-Shopify
-shopify
-oberlo
-alibaba
-aliexpress
-Spocket
-
-
-Social
-Buffer
-Hootsuite
-
-SSL
-https://letsencrypt.org/
-
-Slack
-
-Text Editor
-Sublime Text 3 
-Atom
-
-Tools
-
-
-Track Mention
-Google Alerts
-
-Twitter
-
-
-User Onboarding
-https://www.useronboard.com/user-onboarding-teardowns/
-
-
-
-Webmaster Tools
-Google Webmaster Tools
-Bing Web Master Tools
-Yandex
-
-Retrieve data and create automatic backups from Google Search Console™ into Google Sheets™
-https://searchanalyticsforsheets.com/
-Chrome exstension.
-
-
-
-Website Scrapers
-
-
-Awesome Stuff
-https://supple.com.au/tools/google-advanced-search-operators/
-The short Cutts  used to be here.
-https://www.click.co.uk/
-https://petithacks.com/
-
-
-Other Lists
-
-
-WordPress
-Yoast
-AMP
-ACF CPT UI
-Better WordPress Minify
-Duplicator
-FB Messenger Live Chat
-Glue for Yoast SEO & AMP
-Jetpack by WordPress.com
-MailChimp for WordPress
-Nav Menu Roles
-Redirection
-Show Current Template
-WooCommerce
-WP REST API
-
-
-Tech Stack
-
-
-Courses
-
-
-
-
-Books:
-The lean startup by Eric Ries
-Zero to One by Peter Thiel
-Customer development for entrepreneurs by Steve Barnes
-The four hour workweek by Tim Ferris
-Trust me I am lying- confessions of a media manipulator by Ryan Holiday
-Delivering happiness by Tony Hseish
-
-
-
-Adwords lessons - 23hours with small Retargeting intro
-https://www.udemy.com/the-ultimate-google-adwords-training-course/learn/v4/t/lecture/4022976?start=60
-
-Adwords and Analytics : Remarketing 1 hour 45 or so
-
-https://www.lynda.com/Google-AdWords-tutorials/AdWords-Analytics-Remarketing/647679-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3agoogle+remarketing%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
-
-
-Keep them coming back with remarketing - 8 mins
-https://academy.exceedlms.com/uploads/resource_courses/targets/11180/original/index.html#/id/576016faffd7aa405d18484d
-
-How Retargeting Works–The Complete Guide To Retargeting - more in depth 8 hours
-https://www.udemy.com/how-retargeting-works/learn/v4/content
-
-Facebook Marketing: Advanced Advertising
-https://www.lynda.com/Facebook-tutorials/Custom-audiences-Ads-Manager/466186/655760-4.html?autoplay=true
-
-
-
-
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-
-
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-
-
-
-
-
-
-
-
-
-
 <div class="big-container group">
 <div class="container group col col-md-4 travel-ref-column">
 
@@ -426,26 +233,37 @@ Find your Tribe
   <li><img src="#" alt="" /><a href="https://www.facebook.com/business/learn/facebook-ads-reach-existing-customers">Facebook Businesss - Custom Audiences</a></li>
   <li><img src="#" alt="" /><a href="https://www.lynda.com/Facebook-tutorials/Custom-audiences-Ads-Manager/466186/655760-4.html ">Facebook Marketing: Advanced Advertising</a></li>
 </ol>
-Rich Snippet
-https://www.jamesdflynn.com/json-ld-schema-generator/
-https://developers.google.com/search/docs/guides/intro-structured-data
-https://search.google.com/structured-data/testing-tool
 
-SEO Toolkit
+
+
+h5>Rich Snippet</h5>
+            <ol>
+              <li><img src="#" alt=""><a href="https://www.jamesdflynn.com/json-ld-schema-generator/">JSON-LD Schema Markup Generator</a></li>
+              <li><img src="#" alt=""><a href="https://developers.google.com/search/docs/guides/intro-structured-data">Intro Structured Data</a></li>
+              <li><img src="#" alt=""><a href="https://search.google.com/structured-data/testing-tool">Structured Data/Testing Tool</a></li>
+              <li><img src="#" alt=""><a href=""></a></li>
+              <li><img src="#" alt=""><a href=""></a></li>
+            </ol>
+
 
 SERP Fluctuations
 https://serpwatcher.com
 
-Shopify
-shopify
-oberlo
-alibaba
-aliexpress
-Spocket
+<h5>Shopify</h5>
+            <ol>
+              <li><img src="#" alt=""><a href="https://www.shopify.ca/">Shopify</a></li>
+              <li><img src="#" alt=""><a href="https://www.oberlo.ca/">Oberlo Dropshipping</a></li>
+              <li><img src="#" alt=""><a href="https://www.alibaba.com/">Alibaba -</a></li>
+              <li><img src="#" alt=""><a href="https://www.aliexpress.com/">Aliexpress</a></li>
+              <li><img src="#" alt=""><a href="https://spocket.co/">Spocket</a></li>
+            </ol>
 
-Social
-Buffer
-Hootsuite
+
+<h5>Social</h5>
+            <ol>
+              <li><img src="#" alt=""><a href="https://buffer.com/">Buffer</a></li>
+              <li><img src="#" alt=""><a href="https://hootsuite.com/">Hootsuite</a></li>
+            </ol>
 
 SSL
 https://letsencrypt.org/
