@@ -4,6 +4,7 @@ var postcss = require('gulp-postcss');
 var autoprefixer = require('autoprefixer');
 var cssvars = require('postcss-simple-vars');
 var postcssnested = require('postcss-nested');
+var cssImport = require('postcss-import');
 
 
 
@@ -19,7 +20,7 @@ gulp.task('html', function() {
 gulp.task('styles', function() {
   // console.log('Imagine Sass or Post Css tasks running here')
   return gulp.src('./app/assets/styles/style.css')
-   .pipe(postcss([postcssnested, cssvars, autoprefixer]))
+   .pipe(postcss([cssImport, postcssnested, cssvars, autoprefixer]))
    .pipe(gulp.dest('./app/temp/styles'));
 });
 
